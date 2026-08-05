@@ -1,0 +1,20 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.local
+
+# Packaging / build artifacts (keep the tracked .skill release build only)
+*.skill.tmp
+dist/
+build/
